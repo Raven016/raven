@@ -31,3 +31,6 @@ palabra_con_letra = obtener_palabra_con_letra(letra)
 # Mostrar la palabra obtenida
 if palabra_con_letra:
     print("Palabra:", palabra_con_letra)
+#KarenHernandez
+#Bandera de países
+#IEM_ESCUELA_NORMAL_PASTO #11-1
